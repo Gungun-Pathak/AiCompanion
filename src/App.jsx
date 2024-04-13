@@ -14,7 +14,6 @@ function App() {
     <div className="bg-white">
       <Navbar />
       <Hero />
-      <div><p>Objective:</p></div>
 
       <Cardsunion />
       <div className="w-full h-24 bg-slate-900 pl-8 pt-5">
